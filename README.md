@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Suyash Magar</h1>
-<h3 align="center">6+ years of experienced infrastructure and cloud development using various programming and scripting languages</h3>
+<h3 align="center">Dynamic and skilled Senior Software Engineer with 6.5+ years of experience with expertise in AI task automation development with various programming and scripting languages along with experience in various azure datafactory, azure ai services and other development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=automatewithsuyash&label=Profile%20views&color=0e75b6&style=flat" alt="automatewithsuyash" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=automatewithsuyash" alt="automatewithsuyash" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suyashnmagar" alt="suyashnmagar" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
